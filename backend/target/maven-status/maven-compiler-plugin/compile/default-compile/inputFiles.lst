@@ -11,4 +11,5 @@
 /home/tsmthethwa/Projects/KasiCircle/KasiCircleApp/backend/src/main/java/com/kasicircle/backend/users/entity/Role.java
 /home/tsmthethwa/Projects/KasiCircle/KasiCircleApp/backend/src/main/java/com/kasicircle/backend/users/entity/User.java
 /home/tsmthethwa/Projects/KasiCircle/KasiCircleApp/backend/src/main/java/com/kasicircle/backend/users/repository/UserRepository.java
+/home/tsmthethwa/Projects/KasiCircle/KasiCircleApp/backend/src/main/java/com/kasicircle/backend/users/service/CustomUserDetailsService.java
 /home/tsmthethwa/Projects/KasiCircle/KasiCircleApp/backend/src/main/java/com/kasicircle/backend/users/service/UserService.java

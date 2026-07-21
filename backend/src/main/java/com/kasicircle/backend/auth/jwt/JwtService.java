@@ -23,7 +23,7 @@ public class JwtService {
             @Value("${jwt.secret}") String base64Secret,
             @Value("${jwt.expiration-millis:86400000}") long expirationMillis
     ) {
-        this.signingKey = Keys.hmacShaKeyFor(Decoders.BASE64.decode(base64Secret));
+        this.signingKey = Keys.hmacShaKeyFor(base64Secret.getBytes(java.nio.charset.StandardCharsets.UTF_8));
         this.expirationMillis = expirationMillis;
     }
 
