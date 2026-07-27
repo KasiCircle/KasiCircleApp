@@ -1,1 +1,15 @@
+com/kasicircle/backend/users/service/UserService.class
+com/kasicircle/backend/config/SecurityConfig.class
+com/kasicircle/backend/auth/dto/LoginRequest.class
+com/kasicircle/backend/users/repository/UserRepository.class
+com/kasicircle/backend/config/PasswordConfig.class
+com/kasicircle/backend/auth/controller/AuthenticationController.class
+com/kasicircle/backend/users/service/CustomUserDetailsService.class
+com/kasicircle/backend/auth/service/AuthenticationService.class
+com/kasicircle/backend/users/entity/User.class
+com/kasicircle/backend/auth/jwt/JwtService.class
+com/kasicircle/backend/BackendApplication.class
 com/kasicircle/backend/users/entity/Role.class
+com/kasicircle/backend/auth/jwt/JwtAuthenticationFilter.class
+com/kasicircle/backend/auth/dto/AuthenticationResponse.class
+com/kasicircle/backend/auth/dto/RegisterRequest.class
